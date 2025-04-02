@@ -10,5 +10,8 @@
 [3장. 64비트와 32비트](https://alabaster-syzygy-de7.notion.site/3-64-32-1c5f59d27d718022a84ec0d810e5508a?pvs=74)<br>
 
 ## 2장
-[4장. 컴퓨터 구조의 접근방법](https://alabaster-syzygy-de7.notion.site/4-1c5f59d27d7180488cc1d9cf99e96f60?pvs=74)
-[5장. 프로세스](https://alabaster-syzygy-de7.notion.site/5-1c6f59d27d718095832fe911d01629f3?pvs=73)
+[4장. 컴퓨터 구조의 접근방법](https://alabaster-syzygy-de7.notion.site/4-1c5f59d27d7180488cc1d9cf99e96f60?pvs=74)<br>
+[5장. 프로세스](https://alabaster-syzygy-de7.notion.site/5-1c6f59d27d718095832fe911d01629f3?pvs=73)<br>
+[6장. 커널 오브젝트](https://alabaster-syzygy-de7.notion.site/6-1c6f59d27d7180799ebafe4d945468ea?pvs=73)<br>
+[7장. ]()<br>
+[8장. ]()<br>
